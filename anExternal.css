@@ -1,0 +1,12 @@
+body {
+	background-color: pink;
+	color: brown;
+}
+h1 {
+	color: black;
+}
+img {
+	float: right;
+	border-radius: 25px;
+	clear: left;
+}
